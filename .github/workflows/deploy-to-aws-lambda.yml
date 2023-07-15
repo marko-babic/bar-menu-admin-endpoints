@@ -26,5 +26,5 @@ jobs:
         zip_file: output.zip
         dry_run: true
         runtime: nodejs18.x
-        publish: true
+        publish: ${{ env.DRY_RUN }}
         timeout: 10
