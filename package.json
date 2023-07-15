@@ -1,0 +1,20 @@
+{
+  "name": "bar-menu-admin-endpoints",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-babic/bar-menu-admin-endpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marko-babic/bar-menu-admin-endpoints/issues"
+  },
+  "homepage": "https://github.com/marko-babic/bar-menu-admin-endpoints#readme"
+}
